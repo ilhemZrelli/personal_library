@@ -1,0 +1,12 @@
+# Ignore class files
+*.class
+# Ignore .jar files
+*.jar
+# Ignore log files
+*.log
+# Ignore directories created by IDEs
+.classpath
+.project
+.settings/
+bin/
+target/
